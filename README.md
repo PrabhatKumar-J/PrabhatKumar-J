@@ -1,116 +1,130 @@
-👋 Hi, I'm [Prabhat KUmar]
-☕ Java Developer | 🌱 Fresher | 💻 Backend & Full-Stack Enthusiast
+👋🏻 Hi, I'm "Prabhat Kumar"
+Java Developer • Backend Developer • Software Engineering Enthusiast
+✨ About Me
 
-Welcome to my GitHub profile! I'm a passionate Java Developer and a recent graduate who enjoys building applications, solving problems, and learning new technologies.
+I'm a Java Developer focused on building reliable, maintainable, and scalable backend applications.
 
-I’m currently looking for an opportunity where I can start my professional career, contribute to real-world projects, and grow as a software developer.
+Currently, I'm strengthening my expertise in Core Java, OOP, Collections, SQL, JDBC, Spring, Spring Boot, REST APIs, and MySQL, with a strong focus on backend development, database design, API development, and clean software architecture.
 
-🚀 About Me
+I actively build projects to gain hands-on experience with real-world development practices and improve my problem-solving and software engineering skills.
 
-🎓 I'm a recent graduate and aspiring Java Developer
+I'm particularly interested in Java Backend Development, Spring Boot, REST APIs, Databases, System Design, and scalable software systems.
 
-☕ Strong interest in Core Java & Backend Development
+Build. Learn. Solve. Improve.
 
-🌱 Currently improving my skills in Spring Boot and REST APIs
+🚀 What I Do
 
-🗄️ Interested in MySQL & database-driven applications
+Java Development — Building applications using Java and object-oriented programming principles
 
-🧩 I enjoy solving programming and logical problems
+Backend Development — Designing backend services, business logic, APIs, and database-driven applications
 
-💡 I believe in learning by building projects
+REST API Development — Building and consuming clean, structured RESTful APIs
 
-🎯 Career Goal: Become a skilled Java Backend / Full-Stack Developer
+Database Development — Working with relational databases, SQL queries, schema design, and data management
 
-🛠️ Tech Stack
-Programming Languages
+Problem Solving — Practicing Data Structures, Algorithms, logical problems, and competitive programming fundamentals
 
-Backend
+Software Engineering — Learning clean code, design patterns, debugging, Git, testing, and maintainable application architecture
 
+Continuous Learning — Exploring Spring Boot, JPA/Hibernate, Docker, cloud technologies, and modern backend practices
 
+💻 Tech Stack
+Languages
 
+☕ Java
+🗃️ SQL
+🌐 HTML & CSS
+⚡ JavaScript
 
-Database
+Backend & APIs
 
-Frontend
+🌱 Spring
+🚀 Spring Boot
+🔗 REST APIs
+🔧 JDBC
+🗄️ JPA / Hibernate
 
+Databases
 
+🐬 MySQL
+🗃️ PostgreSQL
 
+Development Tools
 
+🐙 Git & GitHub
+💡 IntelliJ IDEA
+📝 VS Code
+📦 Maven
+🐳 Docker
 
-Tools
+Computer Science
 
+🧩 Object-Oriented Programming
+📚 Data Structures & Algorithms
+🗄️ Database Management Systems
+🌐 Computer Networks
+⚙️ Operating Systems
+🏗️ System Design Fundamentals
 
+🌱 Currently Learning
+☕ Advanced Java
 
+Deepening my understanding of Java Collections, Streams, Multithreading, Exception Handling, Generics, Java 8+ features, and clean coding practices.
 
+🌱 Spring Boot & Backend Development
 
-📚 Currently Learning
-Java
- ├── OOP
- ├── Collections Framework
- ├── Exception Handling
- ├── Multithreading
- ├── Java 8+
- └── JDBC
+Learning to build production-style applications using Spring Boot, Spring Data JPA, REST APIs, validation, authentication, and layered architecture.
 
-Backend
- ├── Spring
- ├── Spring Boot
- ├── REST APIs
- └── Spring Data JPA
+🗄️ Database & SQL
 
-Database
- └── MySQL
+Improving my knowledge of SQL, database relationships, joins, indexing, normalization, transactions, and efficient queries.
 
-💻 Featured Projects
+🧩 Data Structures & Algorithms
 
-🏦 Banking Management System
+Practicing arrays, strings, linked lists, stacks, queues, trees, graphs, recursion, sorting, searching, and problem-solving patterns.
 
-A Java-based application for managing customer accounts and banking operations.
+🏗️ System Design
 
-Tech: Java • OOP • MySQL • JDBC
+Learning the fundamentals of scalable backend systems, API design, caching, databases, reliability, and distributed systems.
 
-🚧 More projects are coming as I continue learning and building.
+🐳 Docker & Deployment
 
-🧠 Problem Solving
+Exploring containerization, application deployment, development environments, and basic DevOps practices.
 
-I regularly practice:
-
-Data Structures & Algorithms
-
-Java programming problems
-
-Object-Oriented Programming
-
-SQL queries
-
-Logical and aptitude problems
+🔥 GitHub Streak
+<!-- GitHub Streak Stats -->
 
 📊 GitHub Stats
 
-🎯 2026 Goals
+🎯 Goals
 
- Strengthen Core Java
+🚀 Become a strong Java Backend Developer
 
- Master Spring Boot
+☕ Master Core Java & Advanced Java
 
- Build production-style REST APIs
+🌱 Build production-ready applications with Spring Boot
 
- Improve Data Structures & Algorithms
+🔗 Develop secure and scalable REST APIs
 
- Build 5+ meaningful projects
+🧩 Strengthen Data Structures & Algorithms
 
- Contribute to open-source projects
+🏗️ Learn System Design & Software Architecture
 
- Start my career as a Java Developer
+🐳 Learn Docker and modern deployment practices
 
-🤝 Let's Connect
+🌍 Contribute to Open Source
 
-I'm always interested in connecting with developers, learning from others, and discussing software development.
+💻 Build meaningful real-world projects
 
-📧 Email: your.email@example.com
-💼 LinkedIn: Your LinkedIn Profile
-🐙 GitHub: @YOUR_USERNAME
+🌐 Connect With Me
+
+📧 Gmail
+💼 LinkedIn
+💻 GitHub
+🧩 LeetCode
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ⭐ Thanks for visiting my profile!
 
-"Code. Learn. Build. Repeat." ☕💻
+Code. Learn. Build. Improve. ☕
